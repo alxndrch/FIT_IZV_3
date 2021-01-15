@@ -2,7 +2,7 @@
 # coding=utf-8
 
 import pandas as pd
-import fiona
+# import fiona  # vyzaduje macos
 import geopandas
 import matplotlib.pyplot as plt
 import contextily as ctx
